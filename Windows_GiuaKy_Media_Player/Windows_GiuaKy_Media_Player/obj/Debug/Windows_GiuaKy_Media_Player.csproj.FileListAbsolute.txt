@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Windows_GiuaKy_Media_Player\Windows_GiuaKy_Media_Player\bin\Debug\Windows_GiuaKy_Media_Player.exe.config
+C:\Users\Admin\source\repos\Windows_GiuaKy_Media_Player\Windows_GiuaKy_Media_Player\bin\Debug\Windows_GiuaKy_Media_Player.exe
+C:\Users\Admin\source\repos\Windows_GiuaKy_Media_Player\Windows_GiuaKy_Media_Player\bin\Debug\Windows_GiuaKy_Media_Player.pdb
+C:\Users\Admin\source\repos\Windows_GiuaKy_Media_Player\Windows_GiuaKy_Media_Player\bin\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\Windows_GiuaKy_Media_Player\Windows_GiuaKy_Media_Player\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\Windows_GiuaKy_Media_Player\Windows_GiuaKy_Media_Player\obj\Debug\Interop.WMPLib.dll
+C:\Users\Admin\source\repos\Windows_GiuaKy_Media_Player\Windows_GiuaKy_Media_Player\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Admin\source\repos\Windows_GiuaKy_Media_Player\Windows_GiuaKy_Media_Player\obj\Debug\Windows_GiuaKy_Media_Player.csproj.ResolveComReference.cache
+C:\Users\Admin\source\repos\Windows_GiuaKy_Media_Player\Windows_GiuaKy_Media_Player\obj\Debug\Windows_GiuaKy_Media_Player.Form1.resources
+C:\Users\Admin\source\repos\Windows_GiuaKy_Media_Player\Windows_GiuaKy_Media_Player\obj\Debug\Windows_GiuaKy_Media_Player.Properties.Resources.resources
+C:\Users\Admin\source\repos\Windows_GiuaKy_Media_Player\Windows_GiuaKy_Media_Player\obj\Debug\Windows_GiuaKy_Media_Player.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Windows_GiuaKy_Media_Player\Windows_GiuaKy_Media_Player\obj\Debug\Windows_GiuaKy_Media_Player.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Windows_GiuaKy_Media_Player\Windows_GiuaKy_Media_Player\obj\Debug\Windows_GiuaKy_Media_Player.exe
+C:\Users\Admin\source\repos\Windows_GiuaKy_Media_Player\Windows_GiuaKy_Media_Player\obj\Debug\Windows_GiuaKy_Media_Player.pdb
+C:\Users\Admin\source\repos\Windows_GiuaKy_Media_Player\Windows_GiuaKy_Media_Player\obj\Debug\Windows_GiuaKy_Media_Player.csprojAssemblyReference.cache
